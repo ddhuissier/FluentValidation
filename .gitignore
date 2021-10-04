@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/FluentValidationLib/obj
+/FluentValidationLib/bin/Debug/net5.0
+/FluentValidationUI/bin/Debug/net5.0-windows
+/FluentValidationUI/obj
